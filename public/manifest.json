@@ -1,0 +1,16 @@
+{
+  "name": "MediCare Plus Family Clinic",
+  "short_name": "MediCare Plus Family Clinic",
+  "description": "MediCare Plus Family Clinic - AI Generated Website",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
